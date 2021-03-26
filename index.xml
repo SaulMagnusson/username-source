@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Saul Magnusson</title>
+    <link>http://SaulMagnusson.github.io/</link>
+    <description>Recent content in About on Saul Magnusson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 13:15:53 -0500</lastBuildDate><atom:link href="http://SaulMagnusson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article</title>
+      <link>http://SaulMagnusson.github.io/writing/article/</link>
+      <pubDate>Fri, 26 Mar 2021 14:43:23 -0500</pubDate>
+      
+      <guid>http://SaulMagnusson.github.io/writing/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://SaulMagnusson.github.io/media/</link>
+      <pubDate>Fri, 26 Mar 2021 14:35:39 -0500</pubDate>
+      
+      <guid>http://SaulMagnusson.github.io/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://SaulMagnusson.github.io/about-hugo/</link>
+      <pubDate>Fri, 26 Mar 2021 14:22:09 -0500</pubDate>
+      
+      <guid>http://SaulMagnusson.github.io/about-hugo/</guid>
+      <description>I created this site using a Static Site Generator follwoing Brian Hogan&amp;rsquo;s book Build Websites with Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://SaulMagnusson.github.io/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://SaulMagnusson.github.io/link/</guid>
+      <description>This is a list of current projects, you can select one to learn more about it.</description>
+    </item>
+    
+  </channel>
+</rss>
